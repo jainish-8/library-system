@@ -1,0 +1,51 @@
+[
+  {
+    "id": "user_admin",
+    "name": "Library Admin",
+    "email": "admin@librarium.io",
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "avatar_seed": "admin_user",
+    "joined_date": "2023-01-01T00:00:00",
+    "reading_goal": 50,
+    "books_read": 12,
+    "total_fines": 0.0,
+    "active_borrows": []
+  },
+  {
+    "id": "user_001",
+    "name": "Alex Reed",
+    "email": "alex@example.com",
+    "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "role": "member",
+    "avatar_seed": "alex_reed",
+    "joined_date": "2023-06-15T00:00:00",
+    "reading_goal": 24,
+    "books_read": 12,
+    "total_fines": 2.5,
+    "active_borrows": [
+      "txn_cfbefc0d6e",
+      "txn_7ab4777f21",
+      "txn_5ac3770b5e",
+      "txn_80530d1c9e",
+      "txn_d91cf1d1ae",
+      "txn_6f4f3d2dc7",
+      "txn_974f1c3c67",
+      "txn_e4a443c176",
+      "txn_55681b84c6"
+    ]
+  },
+  {
+    "id": "user_002",
+    "name": "Jordan Blake",
+    "email": "jordan@example.com",
+    "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "role": "member",
+    "avatar_seed": "jordan_blake",
+    "joined_date": "2023-09-20T00:00:00",
+    "reading_goal": 12,
+    "books_read": 3,
+    "total_fines": 0.0,
+    "active_borrows": []
+  }
+]
